@@ -6,10 +6,10 @@ This repository contains data and software regarding the paper submited to JCIM,
 - A stand-alone python script to compute the electrostatic ML/MM coupling energy with the Thole model.
 
 ## Usage
-The pythole code and the notebook require the "ANI-aa-qmmm.h5" data set to be present.
+The pythole code and the notebook require the "ANI-aa-qmmm.h5" data set to be present (https://doi.org/10.6084/m9.figshare.24582738.v2).
 
 ## Notebook
-This notebook requires the "ANI-aa-qmmm.h5" data set to be present in the same directory it is executed (https://doi.org/10.6084/m9.figshare.24582738.v2).
+This notebook requires the "ANI-aa-qmmm.h5" data set to be present in the same directory it is executed.
 It contains the necesary code to reproduce all the Figures presented in the paper.
 
 ## PyThole
